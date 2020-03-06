@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ET_3_Triangels
 {
-    interface IFigure
+    public interface IFigure
     {
+        string Name { get; set; }
         double GetArea();
     }
 }
