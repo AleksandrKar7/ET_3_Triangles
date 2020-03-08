@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ET_3_Triangels.Data
 {
-    static class Parser
+    public static class Parser
     {
         public static char[] GetSeparators()
         {
@@ -61,11 +61,11 @@ namespace ET_3_Triangels.Data
 
         public static IFigure[] GetArrayTriangel(InputData[] inputData)
         {
-            List<Triangel> result = new List<Triangel>();
+            List<Triangle> result = new List<Triangle>();
 
             foreach (InputData data in inputData)
             {
-                result.Add(new Triangel(
+                result.Add(new Triangle(
                     data.Name, data.SideA, data.SideB, data.SideC));
             }
 

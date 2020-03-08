@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace ET_3_Triangels
 {
-    class Triangel : IFigure
+    public class Triangle : IFigure
     {
         public string Name { get; set; }
         public double SideA { get; set; }
         public double SideB { get; set; }
         public double SideC { get; set; }
 
-        public Triangel(string name, double sideA, double sideB, double sideC)
+        public Triangle(string name, double sideA, double sideB, double sideC)
         {
             Name = name;
             SideA = sideA;

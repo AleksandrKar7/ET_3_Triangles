@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ET_3_Triangels.Data
 {
-    static class Validator
+    public static class Validator
     {
         public static bool IsValidRange(string[] args)
         {
