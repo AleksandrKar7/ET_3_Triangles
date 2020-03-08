@@ -43,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FiguresSorter.cs" />
-    <Compile Include="IFigure.cs" />
-    <Compile Include="InputParamsParcer.cs" />
+    <Compile Include="ConsoleMenu.cs" />
+    <Compile Include="Data\InputData.cs" />
+    <Compile Include="Data\Parser.cs" />
+    <Compile Include="Data\Validator.cs" />
+    <Compile Include="Logics\FiguresSorter.cs" />
+    <Compile Include="Logics\IFigure.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="InputParams.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Triangel.cs" />
+    <Compile Include="Logics\Triangel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
