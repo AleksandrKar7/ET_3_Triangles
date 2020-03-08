@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using ET_3_Triangels.Data;
+using ET_3_Triangles.Data;
 
-namespace ET_3_Triangels
+namespace ET_3_Triangles
 {
     static class ConsoleMenu
     {

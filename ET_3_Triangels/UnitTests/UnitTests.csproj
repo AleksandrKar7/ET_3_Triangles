@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ET_3_Triangels\ET_3_Triangels.csproj" />
+    <ProjectReference Include="..\ET_3_Triangels\ET_3_Triangles.csproj" />
   </ItemGroup>
 
 </Project>

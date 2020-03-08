@@ -1,11 +1,11 @@
-﻿using ET_3_Triangels.Data;
+﻿using ET_3_Triangles.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ET_3_Triangels
+namespace ET_3_Triangles
 {
     class Program
     {

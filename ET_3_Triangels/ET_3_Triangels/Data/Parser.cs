@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ET_3_Triangels.Data
+namespace ET_3_Triangles.Data
 {
     public static class Parser
     {

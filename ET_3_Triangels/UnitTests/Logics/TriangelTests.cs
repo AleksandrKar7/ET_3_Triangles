@@ -1,6 +1,6 @@
 ﻿using System;
 
-using ET_3_Triangels;
+using ET_3_Triangles;
 using NUnit.Framework;
 
 namespace UnitTests.Logics

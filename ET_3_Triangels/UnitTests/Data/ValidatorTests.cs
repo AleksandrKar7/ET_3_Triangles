@@ -1,6 +1,6 @@
 ﻿using System;
 
-using ET_3_Triangels.Data;
+using ET_3_Triangles.Data;
 using NUnit.Framework;
 
 namespace UnitTests.Data
